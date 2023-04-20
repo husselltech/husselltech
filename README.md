@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nate, an <a href="https://linkedin.com/in/nhussell">IT Analyst</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects & Tutorials:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket 1: Azure Cloud Configuration and Installation](https://github.com/husselltech/osTicket-Azure-Cloud-Configuration-Installation)
